@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 470bd1f7aec37784d928add59f9ff121
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TheDestroyer: {instanceID: 0}
+  - Regen: {fileID: 5476029252655094954, guid: cb1096caddf896f44aad786f12dfebf0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
